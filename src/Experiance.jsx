@@ -45,7 +45,7 @@ export default function Experiance() {
               position={[0, 1.56, -1.4]}
               rotation-x={-0.256}
             >
-              <iframe src='https://zwn28.online' />
+              <iframe src='https://zwn28-resume.vercel.app' />
             </Html>
           </primitive>
           <Text
